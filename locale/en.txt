@@ -1,0 +1,22 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 1910 McAllister
+
+## Media
+
+### Title
+panorama_B2029CDF_BE2A_D156_41E5_D6E2331F5404.label = Kitchen
+panorama_B49436C8_BE2A_B1BA_41D4_2BE5204C0880.label = First Bedroom
+panorama_B4948C9B_BE2D_F1DE_41D4_96C30639B759.label = Laundry & Storage
+panorama_B4949708_BE2D_B0BA_41D5_DEE66E945CA2.label = Office
+panorama_B494DA2D_BE2D_D0FA_41D3_1FEF3A0BEB27.label = Entrance Hall
+panorama_B49586E0_BE2D_716A_41E4_EFA689A84C6E.label = Second Bedroom
+panorama_B4959873_BE2D_516E_41D3_88C1D78ACAAF.label = Third Bedroom
+panorama_B495C78B_BE2A_DFBE_41D0_D7F9A9CDB187.label = Bathroom
+panorama_B495E86A_BE2D_517F_41E7_059074BD79EC.label = Hallway Landing
+panorama_B496A9BB_BE2A_F3DE_41D2_225398EAEA00.label = Living Room
